@@ -1,16 +1,25 @@
-## Hi there 👋
+## Piyush Khobragade
 
-<!--
-**Piyushkhobragade/piyushkhobragade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps Engineer focused on building and operating reliable cloud infrastructure with an emphasis on automation, security, and maintainability.
 
-Here are some ideas to get you started:
+### What I work on
+- AWS cloud infrastructure managed through Infrastructure as Code (Terraform)
+- CI/CD pipelines using GitHub Actions with OIDC-based authentication
+- Kubernetes-based systems with attention to scheduling, logging, and observability
+- Linux environments used in production-style workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Open source
+- Merged contributor to Kubernetes SIG projects (kubernetes-sigs/kueue)
+- Experience working with maintainer reviews, CI validation, and incremental improvements
+- Contributions focused on correctness, clarity, and long-term maintainability
+
+### How I approach engineering
+- Prefer simple, auditable solutions over complex abstractions
+- Design systems with least-privilege and security-by-default principles
+- Optimize for reliability, debuggability, and clear operational behavior
+
+### Current direction
+- Improving secure delivery pipelines and cloud infrastructure patterns
+- Deepening practical experience with Kubernetes internals and observability
+
+This profile represents hands-on DevOps work and real-world open source collaboration.
