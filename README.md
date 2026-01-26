@@ -1,8 +1,6 @@
 <p align="center">
-  ![pk](https://github.com/user-attachments/assets/76406775-0505-4d40-8bef-24a058cb5fe4)
+  <img src="https://github.com/user-attachments/assets/e5cd7732-5fa6-4a3d-9c61-6c0e2c65ebae" width="700" />
 </p>
-
-
 
 
 ## Piyush Khobragade
