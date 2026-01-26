@@ -22,4 +22,4 @@ DevOps Engineer focused on building and operating reliable cloud infrastructure 
 - Improving secure delivery pipelines and cloud infrastructure patterns
 - Deepening practical experience with Kubernetes internals and observability
 
-This profile represents hands-on DevOps work and real-world open source collaboration.
+
