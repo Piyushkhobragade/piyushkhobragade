@@ -1,24 +1,35 @@
-name: Generate contribution snake
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/05f0c3cc-546f-476e-8108-22b5356f7887" width="800">
+</p>
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Piyushkhobragade
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+ 
+## Piyush Khobragade
+
+DevOps Engineer focused on building and operating reliable cloud infrastructure with an emphasis on automation, security, and maintainability.
+
+### What I work on
+- AWS cloud infrastructure managed through Infrastructure as Code (Terraform)
+- CI/CD pipelines using GitHub Actions with OIDC-based authentication
+- Kubernetes-based systems with attention to scheduling, logging, and observability
+- Linux environments used in production-style workflows
+
+### Open source
+- Merged contributor to Kubernetes SIG projects (kubernetes-sigs/kueue)
+- Experience working with maintainer reviews, CI validation, and incremental improvements
+- Contributions focused on correctness, clarity, and long-term maintainability
+
+### How I approach engineering
+- Prefer simple, auditable solutions over complex abstractions
+- Design systems with least-privilege and security-by-default principles
+- Optimize for reliability, debuggability, and clear operational behavior
+
+### Current direction
+- Improving secure delivery pipelines and cloud infrastructure patterns
+- Deepening practical experience with Kubernetes internals and observability
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e5cd7732-5fa6-4a3d-9c61-6c0e2c65ebae" width="400" />
+</p>
