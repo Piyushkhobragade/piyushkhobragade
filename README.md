@@ -1,3 +1,7 @@
+
+<img src="automation-audio-engineer.gif" width="700" />
+
+
 ## Piyush Khobragade
 
 DevOps Engineer focused on building and operating reliable cloud infrastructure with an emphasis on automation, security, and maintainability.
