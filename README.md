@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e5cd7732-5fa6-4a3d-9c61-6c0e2c65ebae" width="500" />
+  <img src="https://github.com/user-attachments/assets/05f0c3cc-546f-476e-8108-22b5356f7887" width="800">
 </p>
 
 
+
+ 
 ## Piyush Khobragade
 
 DevOps Engineer focused on building and operating reliable cloud infrastructure with an emphasis on automation, security, and maintainability.
@@ -27,4 +29,8 @@ DevOps Engineer focused on building and operating reliable cloud infrastructure 
 - Improving secure delivery pipelines and cloud infrastructure patterns
 - Deepening practical experience with Kubernetes internals and observability
 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e5cd7732-5fa6-4a3d-9c61-6c0e2c65ebae" width="400" />
+</p>
 
