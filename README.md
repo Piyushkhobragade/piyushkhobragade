@@ -1,5 +1,8 @@
+<p align="center">
+  ![pk](https://github.com/user-attachments/assets/76406775-0505-4d40-8bef-24a058cb5fe4)
+</p>
 
-<img src="pk.gif" width="700" />
+
 
 
 ## Piyush Khobragade
