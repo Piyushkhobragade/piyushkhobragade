@@ -1,5 +1,5 @@
 
-<img src="automation-audio-engineer.gif" width="700" />
+<img src="pk.gif" width="700" />
 
 
 ## Piyush Khobragade
