@@ -2,17 +2,22 @@
   <img src="https://github.com/user-attachments/assets/05f0c3cc-546f-476e-8108-22b5356f7887" width="800">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=700&size=34&duration=6200&pause=2800&color=0B3C5D&center=true&vCenter=true&width=820&lines=Piyush+Khobragade" />
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=500&size=18&duration=2600&pause=1400&color=4A6FA5&center=true&vCenter=true&width=820&lines=DevOps+Engineer;Cloud+Infrastructure;CI%2FCD+%26+Kubernetes;Open+Source+Contributor" />
-</p>
+<div align="center">
+  <!-- Name: Deep Teal (Authority) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&weight=600&size=45&duration=4000&pause=1000&color=004D40&center=true&vCenter=true&width=600&height=70&lines=Piyush+Khobragade" alt="Piyush Khobragade" />
 
-## Piyush Khobragade
+  <!-- Role: Medium Teal (Growth/Tech) -->
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&weight=500&size=24&duration=3000&pause=2000&color=00796B&center=true&vCenter=true&width=600&height=50&lines=DevOps+Engineer;Open+Source+Contributor" alt="DevOps Engineer" />
 
-DevOps Engineer focused on building and operating reliable cloud infrastructure with an emphasis on automation, security, and maintainability.
+  <!-- Summary: Clean Searchable Text -->
+  <p align="center">
+    DevOps Engineer focused on reliable AWS infrastructure, Kubernetes-based systems, and CI/CD automation. Open-source contributor experienced with real-world review and CI workflows.
+  </p>
+</div>
+
+
 
 ### What I work on
 - AWS cloud infrastructure managed through Infrastructure as Code (Terraform)
