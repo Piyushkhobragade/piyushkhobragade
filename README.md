@@ -12,25 +12,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=1000&color=003366&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=140&lines=DevOps+Engineer;AWS+cloud+infrastructure%2C+Kubernetes%2C+and+CI%2FCD;Active+open-source+contributor+to+cloud-native+systems" alt="Typing" />
 </p>
-<!-- 3D ROTATING BADGES WITH GLOW -->
-<p align="center">
-  <img src="https://img.shields.io/badge/DevOps-Engineer-00D9FF?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0A192F" />
-  <img src="https://img.shields.io/badge/Kubernetes-OSS_Contributor-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0A192F" />
-  <img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0A192F" />
-  <img src="https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform&logoColor=white&labelColor=0A192F" />
-  <img src="https://img.shields.io/badge/Security-First-00C853?style=for-the-badge&logo=security&logoColor=white&labelColor=0A192F" />
-</p>
 
-<!-- LIVE COUNTERS WITH ANIMATION -->
-<p align="center">
-  <a href="https://github.com/Piyushkhobragade">
-    <img src="https://img.shields.io/github/followers/Piyushkhobragade?label=Followers&style=for-the-badge&color=00D9FF&labelColor=0A192F&logo=github" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Piyushkhobragade&label=Profile+Views&color=00D9FF&style=for-the-badge&labelColor=0A192F" />
-  <img src="https://img.shields.io/badge/Status-Available-00C853?style=for-the-badge&labelColor=0A192F" />
-</p>
-
-<br/>
 
 <!-- HOLOGRAPHIC ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -44,7 +26,7 @@
 
 </div>
 
-**DevOps Engineer** from India 🇮🇳 | Open to Remote Opportunities
+**DevOps Engineer** from India | Open to Remote Opportunities
 
 <table align="center">
 <tr>
