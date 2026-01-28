@@ -26,34 +26,34 @@
 
 </div>
 
-**DevOps Engineer** from India | Open to Remote Opportunities
+**DevOps Engineer** from India 
 
 <table align="center">
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 Expertise
+###  Expertise
 
-- ☁️ **Cloud**: AWS (EC2, IAM, VPC)
-- 🏗️ **IaC**: Terraform + OIDC
-- ☸️ **Containers**: Kubernetes + Docker
-- 🔄 **CI/CD**: GitHub Actions
+-  **Cloud**: AWS (EC2, IAM, VPC)
+-  **IaC**: Terraform + OIDC
+-  **Containers**: Kubernetes + Docker
+-  **CI/CD**: GitHub Actions
 
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ Focus Areas
+###  Focus Areas
 
-- 🔒 **Security**: Zero-trust architecture
-- 📊 **Observability**: Structured logging
-- 🤖 **Automation**: Infrastructure as Code
-- 🌐 **Networking**: VPC, Load Balancing
+-  **Security**: Zero-trust architecture
+-  **Observability**: Structured logging
+-  **Automation**: Infrastructure as Code
+-  **Networking**: VPC, Load Balancing
 
 </td>
 </tr>
 </table>
 
-**Open Source**: Contributor to [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) ⭐
+**Open Source**: Contributor to [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) 
 
 <br/>
 
@@ -69,9 +69,21 @@
 
 </div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,linux,bash,python,go,git,github,githubactions,nginx,postgres,redis,grafana,prometheus&perline=8&theme=dark" />
-</p>
+<div align="center">
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,ansible,jenkins,linux,git,github,bash,grafana,prometheus,python,go&theme=dark" />
+  </a>
+</div>
+
+
+<!-- lineeeee HOLOGRAPHIC ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+
+
 
 <!-- ANIMATED SKILL PROGRESS -->
 <div align="center">
