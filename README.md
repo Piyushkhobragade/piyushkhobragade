@@ -19,10 +19,12 @@
 
 <br/>
 
-<!-- ABOUT SECTION WITH ANIMATED ICON -->
+<!-- ABOUT SECTION WITH ANIMATED ICON ON BOTH SIDES -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> **About Me**
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> **About Me** <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">
+
+</div>
 
 </div>
 
@@ -65,7 +67,13 @@
 <!-- TECH STACK WITH ANIMATED ICONS -->
 <div align="center">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"> **Tech Stack**
+<!-- TECH STACK WITH ANIMATED ICONS ON BOTH SIDES -->
+<div align="center">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"> **Tech Stack** <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35">
+
+</div>
+</div>
 
 </div>
 
@@ -88,20 +96,25 @@
 <!-- ANIMATED SKILL PROGRESS -->
 <div align="center">
 
-### 📊 Skill Proficiency
+<!-- ANIMATED TERMINAL SKILL SCAN -->
+<div align="center">
+  <h3>
+    
+    
 
+<div align="center">
+  <h3>
+    <img src="https://media.giphy.com/media/4Z1M18A5wK85lP80C0/giphy.gif" width="40" height="40" style="vertical-align:middle" />
+    &nbsp; Skill Proficiency &nbsp;
+    <img src="https://media.giphy.com/media/4Z1M18A5wK85lP80C0/giphy.gif" width="40" height="40" style="vertical-align:middle" />
+  </h3>
 </div>
 
-```text
-Cloud & Infrastructure    ████████████████████░░░░  85%
-Kubernetes & Docker       ████████████████░░░░░░░░  75%
-CI/CD & Automation        ███████████████████░░░░░  90%
-Terraform & IaC           ████████████████░░░░░░░░  80%
-Security & Compliance     ███████████████░░░░░░░░░  70%
-Scripting (Bash/Python)   ███████████████████████░  95%
-```
-
-<br/>
+</h3>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=39FF14&background=000000&center=false&vCenter=false&width=700&height=220&multiline=true&lines=Cloud+%26+Infrastructure....%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91+85%25;Kubernetes+%26+Docker.......%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91+75%25;CI%2FCD+%26+Automation........%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91+90%25;Terraform+%26+IaC...........%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91+80%25;Security+%26+Compliance.....%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91+70%25;Scripting+(Bash%2FPython)...%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91+95%25" alt="Typing SVG" />
+  </a>
+</div>
 
 <!-- HOLOGRAPHIC ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
