@@ -1,10 +1,8 @@
-<!-- OPTION 2: THE "HACKERMAN CONSOLE" (Updated Text) -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=55&duration=2500&pause=500&color=39FF14&background=000000&center=true&vCenter=true&width=1000&height=120&lines=PIYUSH+KHOBRAGADE;DevOps+Engineer;Cloud-Native+systems;Open-source+contributor" alt="Typing SVG" />
- >
-
-
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=55&duration=3000&pause=1000&color=39FF14&background=000000&center=true&vCenter=true&width=1000&height=120&lines=Initializing+Connection...;User:+Piyush+Khobragade;Access+Granted" alt="Typing SVG" />
+  </a>
+</div>
   
   <!-- Decorative Footer Bar -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=39FF14&height=5&section=footer" width="100%" />
