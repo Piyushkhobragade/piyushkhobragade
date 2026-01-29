@@ -139,7 +139,7 @@
 <!-- KUBERNETES CONTRIBUTION WITH PULSING BADGE -->
 <div align="center">
 
-## 🌟 **Kubernetes Contribution**
+## **Kubernetes Contribution**
 
 ### <img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png" width="30"> **Kubernetes SIG Scheduling** | [`kubernetes-sigs/kueue`](https://github.com/kubernetes-sigs/kueue)
 
@@ -194,11 +194,30 @@
 
 <br/>
 
-<!-- HOLOGRAPHIC ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<br/>
 
-<!-- ANIMATED CONTRIBUTION SNAKE -->
+
+
+
+
+
+<!-- DIVIDER: SYSTEM PROCESS -->
+<br>
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="tech_divider">
+</div>
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=39FF14&background=000000&center=true&vCenter=true&width=1000&height=120&lines=Disconnecting...;Session+Closed;System+Offline" />
+</p>
+
+<br>
+
+<!-- DIVIDER: SYSTEM PROCESS -->
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="tech_divider">
+</div>
+<br>
 
