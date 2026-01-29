@@ -199,6 +199,38 @@
 
 
 
+<div align="center">
+
+<a href="https://www.linkedin.com/in/piyush-khobragade-wishmeon26112005/?profileId=ACoAADg2n_gBKFbr2CgOZeZUufumSxyp5Amz520" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Piyushkhobragade" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://dev.to/piyushkhobragade" target="_blank">
+  <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://discord.com/users/1014923854117867552" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<!-- Instagram intentionally non-clickable -->
+<img src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+
+</div>
+
+
+
+
+
+
+
+
+
+
 
 
 <!-- DIVIDER: SYSTEM PROCESS -->
