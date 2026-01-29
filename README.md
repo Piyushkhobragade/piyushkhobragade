@@ -1,12 +1,27 @@
+<!-- DIVIDER: SYSTEM PROCESS -->
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="tech_divider">
+</div>
+<br>
+
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=55&duration=3000&pause=1000&color=39FF14&background=000000&center=true&vCenter=true&width=1000&height=120&lines=Initializing+Connection...;User:+Piyush+Khobragade;Access+Granted" alt="Typing SVG" />
   </a>
 </div>
+
+
   
-  <!-- Decorative Footer Bar -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=39FF14&height=5&section=footer" width="100%" />
+<!-- DIVIDER: SYSTEM PROCESS -->
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="tech_divider">
 </div>
+<br>
+
+
 
 <!-- GLOWING MULTI-LINE TYPING ANIMATION (Midnight Blue) -->
 <p align="center">
