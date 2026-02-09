@@ -22,7 +22,6 @@
 <br>
 
 
-
 <!-- GLOWING MULTI-LINE TYPING ANIMATION (Midnight Blue) -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=1000&color=003366&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=140&lines=DevOps+Engineer;AWS+cloud+infrastructure%2C+Kubernetes%2C+and+CI%2FCD;Active+open-source+contributor+to+cloud-native+systems" alt="Typing" />
