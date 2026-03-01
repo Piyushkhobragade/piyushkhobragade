@@ -68,7 +68,6 @@
 </tr>
 </table>
 
-**Open Source**: Contributor to [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) 
 
 <br/>
 
@@ -137,9 +136,6 @@
 <!-- KUBERNETES CONTRIBUTION WITH PULSING BADGE -->
 <div align="center">
 
-## **Kubernetes Contribution**
-
-### <img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png" width="30"> **Kubernetes SIG Scheduling** | [`kubernetes-sigs/kueue`](https://github.com/kubernetes-sigs/kueue)
 
 </div>
 
@@ -149,42 +145,13 @@
 
 <br/>
 
-**Production Code Improvement** - Fixed non-JSON structured logging in fair-sharing scheduler
-
-**What I Fixed**:
-- Replaced string-based logging with structured logging
-- Aligned with Kubernetes controller-runtime standards
-- Improved observability and debugging capabilities
-- Followed klog best practices
-
-**Impact**:
-- ✅ **Merged to Main Branch**
-- ✅ **Maintainer Approved**
-- ✅ **Production Deployed**
-- ✅ **Improved System Observability**
 
 </td>
 <td width="40%" valign="top">
 
 <br/>
 
-**Code Diff**:
 
-```diff
-- log.Info("Fair sharing",
--     "cohort", cohort.Name)
-
-+ log.Info("Fair sharing",
-+     "cohort", klog.KObj(cohort))
-```
-
-<br/>
-
-**Achievement**:
-- 📝 ~15 lines changed
-- 📁 2 files modified
-- 🔄 2 review cycles
-- ⏱️ ~1 week to merge
 
 </td>
 </tr>
