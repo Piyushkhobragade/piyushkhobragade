@@ -32,44 +32,7 @@
 
 <br/>
 
-<!-- ABOUT SECTION WITH ANIMATED ICON ON BOTH SIDES -->
-<div align="center">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> **About Me** <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">
-
-</div>
-
-</div>
-
-**DevOps Engineer** from India 
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-###  Expertise
-
--  **Cloud**: AWS (EC2, IAM, VPC)
--  **IaC**: Terraform + OIDC
--  **Containers**: Kubernetes + Docker
--  **CI/CD**: GitHub Actions
-
-</td>
-<td width="50%" valign="top">
-
-###  Focus Areas
-
--  **Security**: Zero-trust architecture
--  **Observability**: Structured logging
--  **Automation**: Infrastructure as Code
--  **Networking**: VPC, Load Balancing
-
-</td>
-</tr>
-</table>
-
-
-<br/>
 
 <!-- HOLOGRAPHIC ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
